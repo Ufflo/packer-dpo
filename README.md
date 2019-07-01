@@ -2,8 +2,8 @@
 Packer-recipe for bootstrapping a node for Deployment, Provisioning and Orchestration using MaaS and Ansible
 
 ## Pre-requisites
-- *Packer* to be able to bootstrap.
-- *VirtualBox* to spin up the Virtual Machine.
+- *Packer* to be able to bootstrap. Verified to work with version 1.4.2
+- *VirtualBox* to spin up the Virtual Machine. Verified to work with version 5.0.6
 - *OS Images* for the Operating Systems to be deployable.
 
 ## Technologies used
